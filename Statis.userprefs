@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Main Scene/FireBullet.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main Scene/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Title Scene/ParticleGeneration.cs" Line="26" Column="54" />
+      <File FileName="Assets/Scripts/Main Scene/GemGenerator.cs" Line="14" Column="13" />
+      <File FileName="Assets/Scripts/Title Scene/ParticleMovement.cs" Line="10" Column="3" />
+      <File FileName="Assets/Scripts/Title Scene/SelectorMovement.cs" Line="27" Column="17" />
+      <File FileName="Assets/Scripts/Main Scene/FireBullet.cs" Line="21" Column="5" />
+      <File FileName="Assets/Scripts/Main Scene/BulletTravel.cs" Line="9" Column="8" />
+      <File FileName="Assets/Scripts/Main Scene/PlayerMovement.cs" Line="10" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
